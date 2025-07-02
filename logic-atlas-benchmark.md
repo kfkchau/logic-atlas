@@ -54,3 +54,10 @@ This benchmarking is based on the current Logic Atlas documentation set includin
 ## ⚠️ Disclaimer
 This benchmarking analysis was generated with the assistance of AI tools and has not yet undergone full manual review. While care has been taken to ensure accuracy and relevance, there may be errors, omissions, or misinterpretations in the comparison details.
 Please treat this as a preliminary reference and not a definitive evaluation. Feedback, corrections, and contributions are welcome as the Logic Atlas system continues to evolve.
+
+---
+
+© Kelvin Chau, 2025  
+This work is part of the [Logic Atlas Framework](https://github.com/kfkchau/logic-atlas/).  
+For attribution, citation, or inquiries, please refer to:  
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
