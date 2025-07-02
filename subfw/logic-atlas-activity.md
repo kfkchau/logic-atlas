@@ -92,3 +92,10 @@ Nested example:
 | `ACTOR_TYPE` | Human, Org, System, Agent |
 | `ACTION_TAG` | MV, TF, etc. from AT schema |
 | `RESOURCE_TYPE` | PH, VI, CO, NC from RS schema |
+
+---
+
+© Kelvin Chau, 2025  
+This work is part of the [Logic Atlas Framework](https://github.com/kfkchau/logic-atlas/).  
+For attribution, citation, or inquiries, please refer to:  
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
