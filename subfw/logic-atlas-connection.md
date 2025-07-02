@@ -108,3 +108,10 @@ Example layout:
 | `1→N`   | One cause → multiple effects |
 | `N→1`   | Multiple causes → one effect |
 | `N→N`   | Multiple causes → multiple effects |
+
+---
+
+© Kelvin Chau, 2025  
+This work is part of the [Logic Atlas Framework](https://github.com/kfkchau/logic-atlas/).  
+For attribution, citation, or inquiries, please refer to:  
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
