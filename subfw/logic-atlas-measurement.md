@@ -85,3 +85,10 @@ Supports dashboards, diagrams, and simulation tools.
 | `LN`    | Length (time-related) |
 | `WD`    | Width (distribution-related) |
 | `HT`    | Height (effect-related) |
+
+---
+
+© Kelvin Chau, 2025  
+This work is part of the [Logic Atlas Framework](https://github.com/kfkchau/logic-atlas/).  
+For attribution, citation, or inquiries, please refer to:  
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
