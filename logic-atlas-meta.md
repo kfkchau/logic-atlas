@@ -110,10 +110,10 @@ To ensure that the system remains:
 - Governed — all logic is tracked, versioned, and rule-compliant
 - Extensible — new frameworks and logic layers can be added without disruption
 
+
 ---
 
 © Kelvin Chau, 2025  
-This work is part of the Logic Atlas system.  
+This work is part of the Logic Atlas Framework.  
 For attribution, citation, or inquiries, please refer to:  
-🔗 https://www.linkedin.com/in/kelvinchau  
-“Based on work from the Logic Atlas system by Kelvin Chau, licensed under CC BY 4.0. Available at: https://github.com/kelvinchau/logic-atlas”
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
