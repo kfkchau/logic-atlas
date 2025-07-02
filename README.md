@@ -1,4 +1,4 @@
-# 🧠 Logic Atlas System
+# 🧠 Logic Atlas Framework
 
 Logic Atlas is a modular, interoperable framework for modeling complex systems, activities, relationships, and enforcement logic. It is designed to support structured reasoning, tagging, simulation, and diagnostics across digital, policy, and operational domains.
 
@@ -109,7 +109,7 @@ Logic Atlas has been benchmarked against leading modeling and architecture frame
 | **Activity Structure** | ✅ Actor → Action → Object → Target | Partial | ✅ | Partial | Partial | ✅ |
 | **Integration Schema** | ✅ Explicit matrix and meta-framework | ❌ | ❌ | Partial | Partial | ❌ |
 
-See ./logic-atlas-benchmark.md for the full comparison table and analysis.
+See [./logic-atlas-benchmark.md](./logic-atlas-benchmark.md) for the full comparison table and analysis.
 
 ---
 
@@ -131,7 +131,7 @@ Please treat this version as **preliminary** and not yet production-certified.
 ---
 
 © Kelvin Chau, 2025  
-This work is part of the Logic Atlas system.  
+This work is part of the Logic Atlas Framework.  
 For attribution, citation, or inquiries, please refer to:  
 🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
 
