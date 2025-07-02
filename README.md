@@ -51,7 +51,7 @@ See **Meta-Framework Overview** (`logic-atlas-meta.md`) for full integration log
 
 This work is part of the **Logic Atlas** system and is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
-> “Based on work from the Logic Atlas system by Kelvin Chau, licensed under CC BY 4.0. Available at: https://github.com/kelvinchau/logic-atlas”
+> “Based on work from the Logic Atlas system by Kelvin Chau, licensed under CC BY 4.0. Available at: https://github.com/kfkchau/logic-atlas”
 
 To view the full license terms, see ./LICENSE.md
 
@@ -113,7 +113,6 @@ Please treat this version as **preliminary** and not yet production-certified.
 © Kelvin Chau, 2025  
 This work is part of the Logic Atlas system.  
 For attribution, citation, or inquiries, please refer to:  
-🔗 https://www.linkedin.com/in/kelvinchau
-
+🔗 https://au.linkedin.com/in/kfkchau
 
 
