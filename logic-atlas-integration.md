@@ -20,15 +20,7 @@ This document defines how each Logic Atlas framework connects to others through 
 
 ---
 
-## 🔖 Version
-
-**v0.6.0 – July 2025**  
-Status: Public draft (~60% complete)  
-See `logic-atlas-changelog.md` for full update history.
-
----
-
 © Kelvin Chau, 2025  
-This work is part of the Logic Atlas Framework.  
+This work is part of the [Logic Atlas Framework](https://github.com/kfkchau/logic-atlas/).  
 For attribution, citation, or inquiries, please refer to:  
 🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
