@@ -166,6 +166,6 @@ This glossary defines all formal terms, tags, and typing logic used across the f
 ---
 
 © Kelvin Chau, 2025  
-This work is part of the Logic Atlas Framework.  
+This work is part of the [Logic Atlas Framework](https://github.com/kfkchau/logic-atlas/).  
 For attribution, citation, or inquiries, please refer to:  
 🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
