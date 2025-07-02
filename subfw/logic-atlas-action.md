@@ -83,3 +83,10 @@ To classify and tag actions (verbs) based on their behavioral properties—speci
 | `NA`    | Not Applicable |
 
 Every verb or action must be tagged with both dimensions—Movement and Transformation—even if one is [N/A]. This ensures full MECE coverage and avoids ambiguity in compound or partial tagging.
+
+---
+
+© Kelvin Chau, 2025  
+This work is part of the [Logic Atlas Framework](https://github.com/kfkchau/logic-atlas/).  
+For attribution, citation, or inquiries, please refer to:  
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
