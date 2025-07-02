@@ -163,3 +163,9 @@ This glossary defines all formal terms, tags, and typing logic used across the f
 | Documentation Strategy & Governance | Defines naming conventions and documentation structure |
 | Chat Logic Rule Base | Governs chat behavior, rule enforcement, and compliance logic |
 
+---
+
+© Kelvin Chau, 2025  
+This work is part of the Logic Atlas Framework.  
+For attribution, citation, or inquiries, please refer to:  
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
