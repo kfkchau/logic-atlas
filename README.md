@@ -89,6 +89,26 @@ For attribution, citation, or inquiries, please refer to:
 
 Logic Atlas has been benchmarked against leading modeling and architecture frameworks including TOGAF, BPMN, ArchiMate, UML, and OPA. It stands out for its MECE enforcement, quantification schema, spatial reasoning, and governance structure.
 
+**Compared Frameworks**
+- **TOGAF** – The Open Group Architecture Framework
+- **Zachman Framework**
+- **BPMN** – Business Process Model and Notation
+- **ArchiMate**
+- **UML** – Unified Modeling Language
+- **OPA** – Open Policy Agent
+
+**Benchmark Comparison Table**
+| Dimension | Logic Atlas | TOGAF | BPMN | ArchiMate | OPA | UML |
+|----------|-------------|-------|------|-----------|-----|-----|
+| **Modularity** | ✅ Fully modular sub-frameworks | Partial | Partial | Partial | ✅ | ✅ |
+| **MECE Compliance** | ✅ Explicitly enforced | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Tagging System** | ✅ Verb, resource, spatial, enforcement tags | ❌ | ❌ | ❌ | ✅ | ❌ |
+| **Quantification Logic** | ✅ Length × Width × Height | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Spatial Reasoning** | ✅ Venn 2.0 logic | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Enforcement Modeling** | ✅ Scope × Mechanism × Source × Strength | ❌ | ❌ | ❌ | ✅ | ❌ |
+| **Activity Structure** | ✅ Actor → Action → Object → Target | Partial | ✅ | Partial | Partial | ✅ |
+| **Integration Schema** | ✅ Explicit matrix and meta-framework | ❌ | ❌ | Partial | Partial | ❌ |
+
 See ./logic-atlas-benchmark.md for the full comparison table and analysis.
 
 ---
