@@ -84,3 +84,10 @@ URM (Universal Relationship Mapper) example:
 | `HR`    | Hierarchical |
 | `NT`    | Network |
 | `SY`    | System |
+
+---
+
+© Kelvin Chau, 2025  
+This work is part of the [Logic Atlas Framework](https://github.com/kfkchau/logic-atlas/).  
+For attribution, citation, or inquiries, please refer to:  
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
