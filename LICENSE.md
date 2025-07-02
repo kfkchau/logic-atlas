@@ -26,9 +26,7 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by/4.
 
 ---
 
-## 🧾 Reference & Attribution
-
-**© Kelvin Chau, 2025**  
-This work is part of the Logic Atlas system.  
+© Kelvin Chau, 2025  
+This work is part of the [Logic Atlas Framework](https://github.com/kfkchau/logic-atlas/).  
 For attribution, citation, or inquiries, please refer to:  
-🔗 https://au.linkedin.com/in/kfkchau
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
