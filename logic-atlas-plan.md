@@ -73,7 +73,6 @@ All documentation must comply with `chatrules`, including:
 ---
 
 © Kelvin Chau, 2025  
-This work is part of the Logic Atlas system.  
+This work is part of the [Logic Atlas Framework](https://github.com/kfkchau/logic-atlas/edit/main/logic-atlas-plan.md).  
 For attribution, citation, or inquiries, please refer to:  
-🔗 https://www.linkedin.com/in/kelvinchau  
-“Based on work from the Logic Atlas system by Kelvin Chau, licensed under CC BY 4.0. Available at: https://github.com/kelvinchau/logic-atlas”
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
