@@ -28,9 +28,7 @@ See `logic-atlas-changelog.md` for full update history.
 
 ---
 
-## © Attribution
-
 © Kelvin Chau, 2025  
-This work is part of the Logic Atlas system.  
+This work is part of the Logic Atlas Framework.  
 For attribution, citation, or inquiries, please refer to:  
-🔗 https://www.linkedin.com/in/kelvinchau
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
